@@ -137,3 +137,4 @@ Memos is built with privacy as a core principle. As a self-hosted application, a
 <a href="https://vercel.com/oss">
   <img alt="Vercel OSS Program" src="https://vercel.com/oss/program-badge.svg" />
 </a>
+<!-- dsh-superagent smoke test -->
